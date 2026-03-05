@@ -1,8 +1,4 @@
-# Restful-API-Katalon-Example 🔌
-
-[![API Testing](https://img.shields.io/badge/QA-API%20Testing-success?logo=katalon)](https://katalon.com/)
-[![Restful](https://img.shields.io/badge/REST-API-blue)]()
-
+# UNI Katalon REST API Automation 🔌
 A comprehensive demonstration of RESTful API Automation using **Katalon Studio**. This repository provides an end-to-end framework pattern for validating JSON payloads, HTTP status codes, and multi-step API workflows.
 
 ## 🎯 Objective
