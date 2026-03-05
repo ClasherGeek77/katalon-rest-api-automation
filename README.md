@@ -1,4 +1,4 @@
-# UNI Katalon REST API Automation 🔌
+# Katalon REST API Automation 🔌
 A comprehensive demonstration of RESTful API Automation using **Katalon Studio**. This repository provides an end-to-end framework pattern for validating JSON payloads, HTTP status codes, and multi-step API workflows.
 
 ## 🎯 Objective
