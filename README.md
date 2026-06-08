@@ -21,4 +21,4 @@ To demonstrate an API-first testing approach that bypasses the UI layer for ultr
 3. Select an execution profile (`Staging` / `Production`).
 4. Run the Test Suite to execute the API workflows.
 
-> *"I don't just automate tests. I build testers."* — Teddy Lioner
+> *"I don't just automate tests. I build testers."*
